@@ -48,8 +48,8 @@ The method combines discrete audio tokenization using a pretrained **WavTokenize
 ## News
 
 - ✅ Paper accepted at **ICLR 2026**
-- 🔜 Code and pretrained model weights released
-- 🔜 Audio demos and project page
+- ✅ Code and pretrained model weights released
+- ✅ Audio demos and project page
 
 ---
 
@@ -178,7 +178,7 @@ We are grateful to the authors for making their methods and code publicly availa
 
 ## Citation
 
-If you find this work useful, please cite our paper:
+If you find this work useful, please cite our paper and start the repo:
 
 ```bibtex
 @inproceedings{dror2026token,
