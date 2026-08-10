@@ -181,11 +181,13 @@ We are grateful to the authors for making their methods and code publicly availa
 If you find this work useful, please cite our paper and start the repo:
 
 ```bibtex
-@article{dror2025token,
-  title={Token-based Audio Inpainting via Discrete Diffusion},
+@inproceedings{dror2026token,
+  title={Token-based audio inpainting via discrete diffusion},
   author={Dror, Tali and Shoham, Iftach and Buchris, Moshe and Gal, Oren and Permuter, Haim and Katz, Gilad and Nachmani, Eliya},
-  journal={arXiv preprint arXiv:2507.08333},
-  year={2025}
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={19136--19151},
+  year={2026}
 }
 ```
 
